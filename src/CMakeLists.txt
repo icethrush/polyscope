@@ -67,6 +67,11 @@ SET(SRCS
   curve_network_scalar_quantity.cpp
   curve_network_color_quantity.cpp
   curve_network_vector_quantity.cpp
+
+  # Marching cubes
+  marchingcubes/Vectors.cpp
+  # Implicit surface
+  implicit_surface.cpp
 )
 
 
