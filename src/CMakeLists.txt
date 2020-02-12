@@ -70,8 +70,8 @@ SET(SRCS
 
   # Marching cubes
   marchingcubes/Vectors.cpp
-  # Implicit surface
-  implicit_surface.cpp
+  # Volumetric grids
+  volumetric_grid.cpp
 )
 
 
