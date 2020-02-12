@@ -72,6 +72,7 @@ SET(SRCS
   marchingcubes/Vectors.cpp
   # Volumetric grids
   volumetric_grid.cpp
+  volumetric_grid_scalar_isosurface.cpp
 )
 
 
