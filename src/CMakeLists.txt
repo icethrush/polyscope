@@ -74,6 +74,7 @@ SET(SRCS
   volumetric_grid.cpp
   volumetric_grid_scalar_isosurface.cpp
   volumetric_grid_scalar_quantity.cpp
+  volumetric_grid_vector_quantity.cpp
 )
 
 
